@@ -23,4 +23,4 @@ Interested in backend engineering, .NET technologies, collaborative development,
 
 🤝 Connect
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/mahdi-shahbazi-203880347/)
+LinkedIn:linkedin.com/in/mahdi-shahbazi-203880347
