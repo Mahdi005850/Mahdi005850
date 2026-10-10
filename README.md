@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm a Junior .NET Backend Developer
 
-<!--
-**Mahdi005850/Mahdi005850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on building backend applications and RESTful APIs using the .NET ecosystem, with an emphasis on maintainable code, clear architecture, and reliable application design.
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Language: C#
+- Backend Development: ASP.NET Core, Minimal APIs, RESTful API Design
+- Data Access: Entity Framework Core, LINQ
+- Software Engineering: Object-Oriented Programming (OOP), Dependency Injection, DTOs, Result Pattern
+- Development Tools: Git, GitHub, Visual Studio
+
+🎯 Areas of Focus
+
+- Designing and developing backend services and API endpoints
+- Implementing data access and application logic
+- Improving code organization, maintainability, and error handling
+- Exploring software architecture and backend development best practices
+
+💡 Professional Interests
+
+Interested in backend engineering, .NET technologies, collaborative development, and continuously improving software design and implementation skills.
