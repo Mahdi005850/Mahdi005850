@@ -20,3 +20,7 @@ I focus on building backend applications and RESTful APIs using the .NET ecosyst
 💡 Professional Interests
 
 Interested in backend engineering, .NET technologies, collaborative development, and continuously improving software design and implementation skills.
+
+🤝 Connect
+
+ LinkedIn:linkedin.com/in/mahdi-shahbazi-203880347
